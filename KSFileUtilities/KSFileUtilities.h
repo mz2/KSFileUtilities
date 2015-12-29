@@ -16,4 +16,14 @@ FOUNDATION_EXPORT const unsigned char KSFileUtilitiesVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <KSFileUtilities/PublicHeader.h>
 
-
+#import "KSPathUtilities.h"
+#import "KSEncodeURLString.h"
+#import "KSMailtoURLs.h"
+#import "KSURLComponents.h"
+#import "KSURLNormalization.h"
+#import "KSURLQueryUtilities.h"
+#import "KSURLUtilities.h"
+#import "KSWebLocation.h"
+#import "KSWebLocationPasteboardUtilities.h"
+#import "KSWorkspaceUtilities.h"
+#import "NSURL+IFUnicodeURL.h"
